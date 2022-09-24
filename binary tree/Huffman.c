@@ -130,7 +130,7 @@ void HuffmanCodes(char data[], int freq[], int size){
 
 int main() {
 #ifndef ONLINE_JUDGE
-    freopen("inputH.txt","r",stdin);
+    //freopen("inputH.txt","r",stdin);
     //freopen("output.txt","w",stdout);
 #endif
     int n; scanf("%d", &n);
